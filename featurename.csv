@@ -1,0 +1,23 @@
+﻿feature index;feature name
+fea_1;Procurement price indices of wheat (excluding sowing seed)
+fea_2;Procurement price indices of rye (excluding sowing seed)
+fea_3;Procurement price indices of cattle (excluding calves)
+fea_4;Procurement price indices of pigs
+fea_5;Procurement price indices of milk
+fea_6;Price indices of the sold production in industry
+fea_7;in mining and quarrying
+fea_8;in manufacturing
+fea_9;n electricity, gas, steam and air conditioning supply
+fea_10;"in water supply; sewerage, waste management and remediation activities"
+fea_11;Price indices of construction and assembly production
+fea_12;Price indices of consumer goods and services
+fea_13;food and non-alcoholic beverages
+fea_14;alcoholic beverages and tobacco 
+fea_15;clothing and footwear
+fea_16;housing, water, electricity, gas and other fuels
+fea_17;furnishings, household equipment and routine household maintenance
+fea_18; health
+fea_19;transport
+fea_20;communication
+fea_21;recreation and culture
+fea_22;education
